@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-composer require selyakovadim/paykassa
+composer require zillurcse/paykassa
 ```
 
 ## Initialization
